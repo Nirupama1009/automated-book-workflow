@@ -1,21 +1,21 @@
-# Automated Book Publication Workflow 📚🤖
+# Automated Book Publication Workflow 
 
 This project automates the workflow of creating book chapters using AI tools. It includes scraping content, spinning/rephrasing it using an LLM, reviewing for quality, and storing results with versioning.
 
-## Features
-- ✅ Web scraping with Playwright
-- ✅ AI-based content spinning (LLM)
-- ✅ Human-in-the-loop content review
-- ✅ Version control using ChromaDB
-- ✅ Screenshot proof of working app
+#Features
+-  Web scraping with Playwright
+- AI-based content spinning (LLM)
+- Human-in-the-loop content review
+- Version control using ChromaDB
+- Screenshot proof of working app
 
-## Tech Stack
-- Python 🐍
-- Playwright for scraping 🌐
-- ChromaDB for vector storage 💾
-- OpenAI API (or LLM of your choice) 🧠
+# Tech Stack
+- Python 
+- Playwright for scraping 
+- ChromaDB for vector storage 
+- OpenAI API (or LLM of your choice) 
 
-## How to Run
+#How to Run
 1. Clone the repo
 2. Set up a virtual environment and install dependencies
 3. Run `scraper.py` to scrape content
