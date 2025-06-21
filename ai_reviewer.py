@@ -1,6 +1,6 @@
 def review_text(text):
-    """Simulated AI Reviewer – adds comments or improvements."""
-    # In real use, this would be done with GPT or Gemini.
+    
+    
     lines = text.splitlines()
     reviewed = []
 
